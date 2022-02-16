@@ -1,6 +1,6 @@
 <h1 align="center">Telegram File Stream Bot</h3>
 <p align="center">
-  <a href="https://github.com/EverythingSuckz/TG-FileStreamBot">
+  <a href="https://github.com/MibuTechy/TG-FileStreamBot">
     <img src="https://socialify.git.ci/EverythingSuckz/TG-FileStreamBot/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&logo=https%3A%2F%2Fwww.flaticon.com%2Fpremium-icon%2Ficons%2Fsvg%2F2321%2F2321089.svg&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
   </a>
   <p align="center">
@@ -47,7 +47,7 @@
 ## About This Bot
 
 <p align="center">
-    <a herf="https://github.com/EverythingSuckz/TG-FileStreamBot">
+    <a herf="https://github.com/MibuTechy/TG-FileStreamBot">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
@@ -61,13 +61,13 @@ The main working part was taken from [Megatron](https://github.com/eyaadh/megadl
 
 ## How to make your own
 
-Either you could locally host or deploy on [Heroku](https://heroku.com)
+Either you could locally host or deploy on [Heroku?template=](https://heroku.com)
 
 ### Deploy on Heroku
 
 Press the below button to fast deploy to Heroku
 
-- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/eyMarv/ultraMarv-roku)
+- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/MibuTechy/TG-FileStreamBot)
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
 
