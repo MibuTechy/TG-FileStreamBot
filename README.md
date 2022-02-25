@@ -61,7 +61,7 @@ The main working part was taken from [Megatron](https://github.com/eyaadh/megadl
 
 ## How to make your own
 
-Either you could locally host or deploy on [Heroku?template=](https://heroku.com)
+Either you could locally host or deploy on [Heroku?template=https://github.com/MibuTechy/TG-FileStreamBot](https://heroku.com)
 
 ### Deploy on Heroku
 
